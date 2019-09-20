@@ -1,10 +1,8 @@
 package FeetNumber;
 /*
-Mila Arkhiptcova
+Mila 
 This program with a method that computes and returns the sum of the digits in an integer.
 Example: sumDigits (345) will result in 12 (3 + 4 + 5). 
-09/19/2019
-Bellevue University
 SumDigits.java
 */
 
